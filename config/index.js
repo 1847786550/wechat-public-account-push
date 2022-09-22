@@ -236,7 +236,7 @@ export const USER_CONFIG = {
       ]},
     // 你可以不断按格式往下增加
     // ...
-  ],
+  ]
   
   
 }
